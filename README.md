@@ -4,4 +4,4 @@ NPM     : 2106751120
 
 Kelas   : A
 
-Hobi    : Travelling
+Hobi    : Tidur
